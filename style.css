@@ -1,0 +1,13 @@
+.teste{
+    background-image: linear-gradient(left to right blue, red);
+}
+.container_fluid{
+    display: flex;
+    align-content: space-between;
+}
+img{
+    height: 75vh;
+}
+body{
+    padding-top: 50px;
+}
